@@ -1,0 +1,32 @@
+Dear Students,
+I hope this email finds you well. I am writing to provide specific details about your research project, the relevant dataset, and the requirements for your upcoming presentation.
+
+Research Topic and Dataset
+Your group has been assigned the following research topic:
+•	Topic:  Semantic Segmentation of Underwater Imagery
+•	Dataset: https://www.kaggle.com/datasets/ashish2001/semantic-segmentation-of-underwater-imagery-suim
+that all group members have access to the dataset and are familiar with its structure before proceeding with the project.
+
+Presentation Requirements
+Your presentation must include the following elements:
+1.	Illustration of the Problem
+  o	Clearly define the problem your project aims to address.
+2.	Data Visualization
+  o	Provide clear and detailed visualizations of the key data.
+3.	Methodology
+  o	Explain your approach using flowcharts or other tools.
+4.	Computational Results
+  o	Present your results using graphs, heatmaps, or other visual tools.
+5.	Analysis and Interpretation
+  o	Summarize your conclusions and provide a clear interpretation of the results.
+
+Presentation Dates and Groups
+•	Wednesday, January 15, 2025, at 08:15: Group ESILV-5-A5-CORE-DIA3
+•	Thursday, January 16, 2025, at 08:15: Group ESILV-5-A5-CORE-DIA2
+•	Friday, January 17, 2025, at 08:15: Group ESILV-5-A5-CORE-DIA1
+
+Additional Guidelines
+Presentation Duration: 30 minutes, followed by 10 minutes for questions.
+Please make sure to adhere to these guidelines. If you have any questions or concerns, do not hesitate to contact me.
+Best regards,
+Ruiwen He
